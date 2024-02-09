@@ -10,10 +10,10 @@ const userData = [
 ]
 
 const todoData = [
-    { title: 'Learn HTML', duedate: new Date(), user_id: 1},
-    { title: 'Learn CSS', duedate: new Date(), user_id: 1},
-    { title: 'Learn JS', duedate: new Date(), user_id: 2},
-    { title: 'Learn React', duedate: new Date(), user_id: 3}
+    { title: 'Learn HTML', dueDate: new Date(), userId: 1},
+    { title: 'Learn CSS', dueDate: new Date(), userId: 1},
+    { title: 'Learn JS', dueDate: new Date(), userId: 2},
+    { title: 'Learn React', dueDate: new Date(), userId: 3}
 ]
 
 const run = async () => {
